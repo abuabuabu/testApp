@@ -20,6 +20,11 @@ import android.widget.TextView;
 import java.io.File;
 import java.util.Calendar;
 
+/**
+ * @author   abu   2017/9/7   12:27
+ *  sss
+ */
+
 public class MainActivity extends Activity implements SurfaceHolder.Callback {
 
     private static final String TAG = "MainActivity";
